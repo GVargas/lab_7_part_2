@@ -4,6 +4,8 @@ void setup() {
   
 }
 
+// Lol my car is moving (>^_^)>
+
 int x = 0;
 int velocity = 3;
  
